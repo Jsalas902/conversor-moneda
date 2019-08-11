@@ -1,6 +1,6 @@
-# conversor-moneda
+# Conversor de Monedas
 
-![screensot pokemon](img/Screenshot_demo.png "Screenshot conversor de monedas")
+![screensot conversor](img/Screenshot_demo.png "Screenshot Conversor de Monedas")
 _Simplemente abra index.html_
 
 ## Construido con 🛠️
