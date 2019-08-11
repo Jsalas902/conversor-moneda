@@ -1,5 +1,3 @@
-# Conversor de Monedas
-
 ![screensot conversor](img/Screenshot_conversor.png "Screenshot Conversor de Monedas")
 _Simplemente abra index.html_
 
