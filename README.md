@@ -8,7 +8,7 @@ _Simplemente abra index.html_
 _Herramientas utilizadas para crear el proyecto_
 
 * [JS](https://vuejs.org/) - El framework Vue
-* [AXIOS](https://www.json.org/) - El back end consumido el API https://www.currencyconverterapi.com
+* [AXIOS](https://github.com/axios/axios) - El back end consumido el API https://www.currencyconverterapi.com
 * [HTML](#) - HyperText Markup Language
 * [CSS](https://getbootstrap.com/) - Bootstrap
 
